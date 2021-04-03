@@ -15,8 +15,6 @@ elif salario <= 2000:
 else:
     reajuste = 0.04
 
-
-
 novo_salario = salario * (1 + reajuste)
 ganho = salario * reajuste
 
